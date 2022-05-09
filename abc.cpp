@@ -64,5 +64,5 @@ cout<<arr[i][j]<<" ";
 cout<<"\n";
 }
 spiral(arr,r,c);
-return 0;
+
 }
